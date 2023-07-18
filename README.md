@@ -39,7 +39,7 @@ Download the trained model in this paper [Baidu Drive](https://pan.baidu.com/s/1
 The train/val data pathes are set in [data/__init__.py](codes/data/__init__.py) 
 
 ## Test 
-The test data path and the save path can be edited in [demo_deploy.py](codes/demo_deploy.py)
+The test data path and the save path can be edited in [demo_test.py](codes/demo_test.py)
 
 ```
 # x4
